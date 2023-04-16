@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaizoGG
 - 👀 I’m interested in financial freedom
 - 🌱 I’m currently learning forex
-- 💞️ I’m looking to collaborate on tradingview
-- 📫 How to reach me become a consistently profitable trader
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me ...
 
 <!---
 RaizoGG/RaizoGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
